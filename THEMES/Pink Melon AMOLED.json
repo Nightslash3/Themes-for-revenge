@@ -30,7 +30,7 @@
             "#FFFFFF"
         ],
 		"TEXT_MUTED": [
-            "#ff7ecc"
+            "#7effb1"
         ],
 		"INTERACTIVE_NORMAL": [
             "#ff7effb1"
@@ -78,7 +78,7 @@
             "#000000"
         ],
 		"BACKGROUND_MESSAGE_HOVER": [
-            "#ff7ecc"
+            "#7effb1"
         ],
 		"BACKGROUND_MODIFIER_HOVER": [
             "#ff7effb1"
@@ -141,7 +141,7 @@
             "#090909"
         ],
 		"SCROLLBAR_THIN_THUMB": [
-            "#ff7ecc"
+            "#7effb1"
         ],
 		"SCROLLBAR_THIN_TRACK": [
             "#000000"
@@ -156,7 +156,7 @@
             "#FFFFFF"
         ],
 		"TEXT_LINK": [
-            "#ff7ecc"
+            "#7effb1"
         ],
 		"TEXT_DANGER": [
             "#FFFFFF"
@@ -194,7 +194,7 @@
 		"PRIMARY_660": "#000000",
 		"PRIMARY_700": "#000000",
 		"PRIMARY_800": "#ff7ecc70",
-		"BRAND_260": "#ff7ecc",
+		"BRAND_260": "#7effb1",
 		"BRAND_360": "#ff7effb1",
 		"BRAND_500": "#1A1A1A",
 		"BRAND_560": "#000000",
@@ -203,11 +203,11 @@
 		"GREEN_360": "#ff7effb1",
 		"GREEN_430": "#000000",
 		"WHITE_500": "#FFFFFF",
-		"BLUE_345": "#ff7ecc",
+		"BLUE_345": "#7effb1",
 		"PLUM_1": "#ff7effb1",
-		"PLUM_3": "#ff7ecc",
+		"PLUM_3": "#7effb1",
 		"PLUM_6": "#FFFFFF",
-		"PLUM_9": "#ff7ecc",
+		"PLUM_9": "#7effb1",
 		"PLUM_11": "#ff7effb1",
 		"PLUM_13": "#ff7effb1",
 		"PLUM_14": "#000000",

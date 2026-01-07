@@ -45,61 +45,61 @@
             "#8b7569"
         ],
 		"BACKGROUND_PRIMARY": [
-            "#5c4a3d"
+            "#8b4b28"
         ],
 		"BACKGROUND_SECONDARY": [
-            "#5c4a3d"
+            "#8b4b28"
         ],
 		"BACKGROUND_SECONDARY_ALT": [
-            "#5c4a3d"
+            "#8b4b28"
         ],
 		"REDESIGN_BUTTON_SECONDARY_BORDER": [
-            "#5c4a3d"
+            "#8b4b28"
         ],
 		"BACKGROUND_TERTIARY": [
-            "#5c4a3d"
+            "#8b4b28"
         ],
 		"BACKGROUND_ACCENT": [
-            "#5c4a3d80"
+            "#8b4b2880"
         ],
 		"BACKGROUND_FLOATING": [
-            "#5c4a3d"
+            "#8b4b28"
         ],
 		"BACKGROUND_MOBILE_PRIMARY": [
-            "#5c4a3d"
+            "#8b4b28"
         ],
 		"BACKGROUND_MOBILE_SECONDARY": [
-            "#5c4a3d"
+            "#8b4b28"
         ],
 		"BACKGROUND_MOBILE_FLOATING": [
-            "#5c4a3d"
+            "#8b4b28"
         ],
 		"BACKGROUND_NESTED_FLOATING": [
-            "#5c4a3d"
+            "#8b4b28"
         ],
 		"BACKGROUND_MESSAGE_HOVER": [
-            "#5c4a3d40"
+            "#8b4b2840"
         ],
 		"BACKGROUND_MODIFIER_HOVER": [
-            "#5c4a3d60"
+            "#8b4b2860"
         ],
 		"BACKGROUND_MODIFIER_ACTIVE": [
-            "#5c4a3d"
+            "#8b4b28"
         ],
 		"BACKGROUND_MODIFIER_SELECTED": [
-            "#5c4a3d"
+            "#8b4b28"
         ],
 		"BACKGROUND_MODIFIER_ACCENT": [
-            "#5c4a3d80"
+            "#8b4b2880"
         ],
 		"EMBED_BACKGROUND": [
-            "#5c4a3dD0"
+            "#8b4b28D0"
         ],
 		"BACKGROUND_MENTIONED": [
             "#fdc8c840"
         ],
 		"BG_SURFACE_OVERLAY_TMP": [
-            "#5c4a3d"
+            "#8b4b28"
         ],
 		"BUTTON_OUTLINE_BRAND_BACKGROUND": [
             "#fdc8c8"
@@ -108,13 +108,13 @@
             "#fdc8c8"
         ],
 		"REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
-            "#5c4a3d"
+            "#8b4b28"
         ],
 		"REDESIGN_CHAT_INPUT_BACKGROUND": [
-            "#5c4a3d"
+            "#8b4b28"
         ],
 		"REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-            "#5c4a3d"
+            "#8b4b28"
         ],
 		"REDESIGN_BUTTON_PRIMARY_BACKGROUND": [
             "#fdc8c8"
@@ -123,34 +123,34 @@
             "#a7dfcd"
         ],
 		"REDESIGN_BUTTON_TERTIARY_BACKGROUND": [
-            "#5c4a3d00"
+            "#8b4b2800"
         ],
 		"ANDROID_RIPPLE": [
             "#FFFFFF30"
         ],
 		"BG_BASE_PRIMARY": [
-            "#5c4a3d"
+            "#8b4b28"
         ],
 		"BG_BRAND": [
-            "#5c4a3d"
+            "#8b4b28"
         ],
 		"BG_MOD_FAINT": [
-            "#5c4a3d"
+            "#8b4b28"
         ],
 		"BG_MOD_STRONG": [
-            "#5c4a3d"
+            "#8b4b28"
         ],
 		"SCROLLBAR_THIN_THUMB": [
             "#a7dfcd"
         ],
 		"SCROLLBAR_THIN_TRACK": [
-            "#5c4a3d"
+            "#8b4b28"
         ],
 		"SCROLLBAR_AUTO_THUMB": [
             "#fdc8c8"
         ],
 		"SCROLLBAR_AUTO_TRACK": [
-            "#5c4a3d"
+            "#8b4b28"
         ],
 		"CHANNELS_DEFAULT": [
             "#fdc8c8"
@@ -168,18 +168,18 @@
             "#a7dfcd"
         ],
 		"CHAT_BACKGROUND": [
-            "#5c4a3d"
+            "#8b4b28"
         ],
 		"CARD_PRIMARY_BG": [
-            "#5c4a3d"
+            "#8b4b28"
         ],
 		"REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
             "#a7dfcd"
         ],
 		"USER_PROFILE_HEADER_OVERFLOW_BACKGROUND": [
-            "#5c4a3d",
-            "#5c4a3d",
-            "#5c4a3d"
+            "#8b4b28",
+            "#8b4b28",
+            "#8b4b28"
         ],
 		"BG_BASE_TERTIARY": [
             "#8b7569"
@@ -189,17 +189,17 @@
 		"PRIMARY_200": "#fdc8c8",
 		"PRIMARY_230": "#FFFFFF",
 		"PRIMARY_300": "#FFFFFF",
-		"PRIMARY_500": "#5c4a3d",
-		"PRIMARY_600": "#5c4a3d",
-		"PRIMARY_660": "#5c4a3d",
-		"PRIMARY_700": "#5c4a3d",
-		"PRIMARY_800": "#5c4a3d70",
+		"PRIMARY_500": "#8b4b28",
+		"PRIMARY_600": "#8b4b28",
+		"PRIMARY_660": "#8b4b28",
+		"PRIMARY_700": "#8b4b28",
+		"PRIMARY_800": "#8b4b2870",
 		"BRAND_260": "#a7dfcd",
 		"BRAND_360": "#fdc8c8",
-		"BRAND_500": "#5c4a3d",
-		"BRAND_560": "#5c4a3d",
-		"RED_400": "#5c4a3d",
-		"RED_430": "#5c4a3d",
+		"BRAND_500": "#8b4b28",
+		"BRAND_560": "#8b4b28",
+		"RED_400": "#8b4b28",
+		"RED_430": "#8b4b28",
 		"GREEN_360": "#a7dfcd",
 		"GREEN_430": "#a7dfcd",
 		"WHITE_500": "#FFFFFF",
@@ -210,15 +210,15 @@
 		"PLUM_9": "#fdc8c8",
 		"PLUM_11": "#a7dfcd",
 		"PLUM_13": "#fdc8c8",
-		"PLUM_14": "#5c4a3d",
-		"PLUM_15": "#5c4a3d",
-		"PLUM_16": "#5c4a3d70",
-		"PLUM_17": "#5c4a3d",
-		"PLUM_18": "#5c4a3d",
-		"PLUM_19": "#5c4a3d",
-		"PLUM_20": "#5c4a3d",
-		"PLUM_22": "#5c4a3d40",
-		"PLUM_24": "#5c4a3d"
+		"PLUM_14": "#8b4b28",
+		"PLUM_15": "#8b4b28",
+		"PLUM_16": "#8b4b2870",
+		"PLUM_17": "#8b4b28",
+		"PLUM_18": "#8b4b28",
+		"PLUM_19": "#8b4b28",
+		"PLUM_20": "#8b4b28",
+		"PLUM_22": "#8b4b2840",
+		"PLUM_24": "#8b4b28"
 	},
 	"fonts": {
     "ABCGintoNord-ExtraBold": "https://github.com/Nightslash3/Themes-for-revenge/raw/refs/heads/main/FONTS/Gantari-ExtraBoldItalic.ttf",
@@ -242,3 +242,4 @@
 },
 	"spec": 2
 }
+

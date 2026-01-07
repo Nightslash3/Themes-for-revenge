@@ -1,7 +1,7 @@
 {
 	"name": "Cherry Wood",
 	"description": "A warm theme with brown backgrounds and soft text accents.",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"authors": [
 		{
 			"name": "Deltxyz",
@@ -9,7 +9,7 @@
         }
     ],
 	"plus": {
-		"version": 0,
+		"version": 1,
 		"mentionLineColor": "#fdc8c8",
 		"iconpack": "rosiecord-plumpy"
 	},
@@ -42,25 +42,25 @@
             "#fdc8c8"
         ],
 		"INTERACTIVE_MUTED": [
-            "#bda69a"
+            "#8b7569"
         ],
 		"BACKGROUND_PRIMARY": [
             "#8b7569"
         ],
 		"BACKGROUND_SECONDARY": [
-            "#bda69a"
+            "#8b7569"
         ],
 		"BACKGROUND_SECONDARY_ALT": [
             "#8b7569"
         ],
 		"REDESIGN_BUTTON_SECONDARY_BORDER": [
-            "#bda69a"
+            "#8b7569"
         ],
 		"BACKGROUND_TERTIARY": [
             "#8b7569"
         ],
 		"BACKGROUND_ACCENT": [
-            "#bda69a80"
+            "#8b756980"
         ],
 		"BACKGROUND_FLOATING": [
             "#8b7569"
@@ -69,7 +69,7 @@
             "#8b7569"
         ],
 		"BACKGROUND_MOBILE_SECONDARY": [
-            "#bda69a"
+            "#8b7569"
         ],
 		"BACKGROUND_MOBILE_FLOATING": [
             "#8b7569"
@@ -78,19 +78,19 @@
             "#8b7569"
         ],
 		"BACKGROUND_MESSAGE_HOVER": [
-            "#bda69a40"
+            "#8b756940"
         ],
 		"BACKGROUND_MODIFIER_HOVER": [
-            "#bda69a60"
+            "#8b756960"
         ],
 		"BACKGROUND_MODIFIER_ACTIVE": [
-            "#bda69a"
+            "#8b7569"
         ],
 		"BACKGROUND_MODIFIER_SELECTED": [
-            "#bda69a"
+            "#8b7569"
         ],
 		"BACKGROUND_MODIFIER_ACCENT": [
-            "#bda69a80"
+            "#8b756980"
         ],
 		"EMBED_BACKGROUND": [
             "#8b7569D0"
@@ -108,13 +108,13 @@
             "#fdc8c8"
         ],
 		"REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
-            "#bda69a"
+            "#8b7569"
         ],
 		"REDESIGN_CHAT_INPUT_BACKGROUND": [
             "#8b7569"
         ],
 		"REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-            "#bda69a"
+            "#8b7569"
         ],
 		"REDESIGN_BUTTON_PRIMARY_BACKGROUND": [
             "#fdc8c8"
@@ -132,13 +132,13 @@
             "#8b7569"
         ],
 		"BG_BRAND": [
-            "#bda69a"
+            "#8b7569"
         ],
 		"BG_MOD_FAINT": [
             "#8b7569"
         ],
 		"BG_MOD_STRONG": [
-            "#bda69a"
+            "#8b7569"
         ],
 		"SCROLLBAR_THIN_THUMB": [
             "#a7dfcd"
@@ -150,7 +150,7 @@
             "#fdc8c8"
         ],
 		"SCROLLBAR_AUTO_TRACK": [
-            "#bda69a"
+            "#8b7569"
         ],
 		"CHANNELS_DEFAULT": [
             "#fdc8c8"
@@ -178,7 +178,7 @@
         ],
 		"USER_PROFILE_HEADER_OVERFLOW_BACKGROUND": [
             "#8b7569",
-            "#bda69a",
+            "#8b7569",
             "#8b7569"
         ],
 		"BG_BASE_TERTIARY": [
@@ -190,13 +190,13 @@
 		"PRIMARY_230": "#FFFFFF",
 		"PRIMARY_300": "#FFFFFF",
 		"PRIMARY_500": "#8b7569",
-		"PRIMARY_600": "#bda69a",
+		"PRIMARY_600": "#8b7569",
 		"PRIMARY_660": "#8b7569",
 		"PRIMARY_700": "#8b7569",
-		"PRIMARY_800": "#bda69a70",
+		"PRIMARY_800": "#8b756970",
 		"BRAND_260": "#a7dfcd",
 		"BRAND_360": "#fdc8c8",
-		"BRAND_500": "#bda69a",
+		"BRAND_500": "#8b7569",
 		"BRAND_560": "#8b7569",
 		"RED_400": "#8b7569",
 		"RED_430": "#8b7569",
@@ -211,13 +211,13 @@
 		"PLUM_11": "#a7dfcd",
 		"PLUM_13": "#fdc8c8",
 		"PLUM_14": "#8b7569",
-		"PLUM_15": "#bda69a",
-		"PLUM_16": "#bda69a70",
+		"PLUM_15": "#8b7569",
+		"PLUM_16": "#8b756970",
 		"PLUM_17": "#8b7569",
 		"PLUM_18": "#8b7569",
 		"PLUM_19": "#8b7569",
 		"PLUM_20": "#8b7569",
-		"PLUM_22": "#bda69a40",
+		"PLUM_22": "#8b756940",
 		"PLUM_24": "#8b7569"
 	},
 	"fonts": {
